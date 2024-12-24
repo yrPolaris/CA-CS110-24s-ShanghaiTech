@@ -1,2 +1,2 @@
 Homework finished learning in Computer Architecture  
-And My implement for Project
+And implement the Project
